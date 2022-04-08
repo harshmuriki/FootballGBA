@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.py": "python",
+    "garbage.h": "c",
+    "footballpost.h": "c"
+  }
+}
